@@ -1,0 +1,8 @@
+1. What is metadata?
+Metadata is termed as "data about content of the data" and it is found in the content of libraries. Practically, it is
+used at back side of book to see the necessary topic.
+
+2. What are the differences between VB and VB.NET?
+The following are the differences between VB and VB.NET:
+VB                                   VB.NET
+Platform Dependent              Platform Independent
